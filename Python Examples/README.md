@@ -1,7 +1,8 @@
 # Python范例
+> 本范例所需安装包可在[此处](https://github.com/yqji/python-example/tree/master/Python%20Examples/packages)下载
 
 ## 1. 安装Python
-1) 安装文件为: `/packages/python-2.7.10.msi`
+1) 安装文件为: `python-2.7.10.msi`
 
 2) 注意:
 
@@ -18,7 +19,7 @@
 ![3](tips/3.png)
 
 ## 2. 操作MySQL
-1) 安装Python连接MySQL的包 `/packages/MySQL-python-1.2.4b4.win32-py2.7.exe`
+1) 安装Python连接MySQL的包 `MySQL-python-1.2.4b4.win32-py2.7.exe`
 
 2) 在MySQL中创建一个测试数据库
 
